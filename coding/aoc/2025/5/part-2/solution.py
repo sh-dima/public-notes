@@ -12,6 +12,8 @@ with open(f"{path.dirname(path.realpath(__file__))}/input.txt") as file:
 intervals = [[x[0], x[1]] for x in (set((int(x.split("-")[0]), int(x.split("-")[1])) for x in intervals))]
 intervals = sorted(intervals, key=lambda interval: interval[0])
 
+total = 0
+
 for index in range(len(intervals)):
 	a = intervals[index]
 
@@ -27,8 +29,6 @@ for index in range(len(intervals)):
 		if (next_maximum < maximum):
 			intervals[index + 1][1] = maximum
 
-total = 0
-for interval in intervals:
-	total += size(interval)
+	total += size(a)
 
 print(total)
