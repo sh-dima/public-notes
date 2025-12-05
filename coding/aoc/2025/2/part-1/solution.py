@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
 from os import path
-from math import ceil
 
 def is_valid(id_number: int) -> bool:
 	string = str(id_number)
