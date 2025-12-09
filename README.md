@@ -12,6 +12,8 @@ This repository contains the following:
 * Some Irish Math Olympiad (IrMO) questions and solutions
 * Some German Math Olympiad questions and solutions
 
+Note that if a question is included, the wording is different from the original to avoid copyright and/or to simplify the question and get rid of unneeded information.
+
 Links
 -----
 
