@@ -5,3 +5,9 @@ Let the functions $A$ and $B$ be defined as follows:
 - $B: NN^2 -> NN^2 : (a, b) -> (3a + 2b, 4a + 3b)$
 
 Is it possible to go from $(1, 1)$ to $(2025, 2025)$ using only the functions $A$ and $B$?
+
+== Solution
+
+$
+	A^508(B(A^496(B(1, 1)))) &= (2025, 2025)
+$
