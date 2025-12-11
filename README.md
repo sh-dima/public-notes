@@ -17,12 +17,12 @@ Note that if a question is included, the wording is different from the original 
 Links
 -----
 
-* [GitLab](https://gitlab.com/shdima/public-notes)
+* [GitLab](https://gitlab.com/-/p/76060649)
 * [GitHub](https://github.com/sh-dima/public-notes)
 
 License
 -------
 
-© 2025 [Дима Ш.](https://gitlab.com/shdima)
+© 2025 [Дима Ш.](https://gitlab.com/-/u/24902750)
 
 Licensed under [CC BY-NC-SA 4.0](./LICENSE).
